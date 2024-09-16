@@ -50,3 +50,18 @@ body {
 .right  { background-color: #ffef6b; transform: rotateY(90deg) translateZ(100px); }
 .top    {background-color: #ff6bff; transform: rotateX(90deg) translateZ(100px); }
 .bottom {  background-color: #6bffef;transform: rotateX(-90deg) translateZ(100px); }
+
+.text-content {
+  margin-top: 20px; /* Add space between cube and text */
+  text-align: center;
+  width: 60%;
+}
+h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 1.2em;
+  line-height: 1.5;
+}
