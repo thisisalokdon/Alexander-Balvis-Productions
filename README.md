@@ -17,7 +17,8 @@ Alexander Balvis Productions is a film production and personal development compa
 - **Film Production**: Creating cinematic experiences that inspire and engage audiences.
 - **Acting Workshops**: Training actors to excel both on and off the screen.
 - **Wealth Management Courses**: Empowering individuals to take control of their financial future.
-- **Health & Wellness Seminars**: Promoting holistic well-being and personal growth.
+- **Health & Wellness Courses**: Promoting holistic well-being and personal growth.
+- **Relationship Courses** : Educationg individuals to have relationship with their ideal partners .
 
 ---
 
