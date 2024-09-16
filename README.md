@@ -6,7 +6,7 @@
 
 *Creative Storytelling | Acting Training | Personal Development*
 
-Welcome to the official GitHub page of **Alexander Balvis Productions**! Since 2017, we have been empowering aspiring actors, storytellers, and individuals through world-class **acting courses**, **health seminars**, and **wealth management workshops**. We are committed to pushing the boundaries of creativity, personal growth, and excellence in everything we do.
+Welcome to the official GitHub page of **Alexander Balvis Productions**! Since 2017, we have been empowering aspiring actors, storytellers, and individuals through world-class **acting courses**, **health trainings**, **Relationship management courses** and **wealth management coures**. We are committed to pushing the boundaries of creativity, personal growth, and excellence in everything we do.
 
 ---
 
