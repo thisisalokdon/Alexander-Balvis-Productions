@@ -79,7 +79,7 @@ We are always looking for talented individuals to contribute to our projects. If
 
 For any inquiries or collaboration opportunities, feel free to reach out to us:
 
-- 📧 Email: contact@alexanderbalvisproductions.com
+- 📧 Email: info@alexanderbalvis.in
 - 🌐 Website: [www.alexanderbalvis.in](https://www.alexanderbalvis.in)
 - 📱 Instagram: [@alexanderbalvis](https://instagram.com/alexanderbalvis)
 - 🎥 YouTube: [Alexander Balvis Productions Channel](https://youtube.com/alexanderbalvisproductions)
