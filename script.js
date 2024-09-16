@@ -12,7 +12,7 @@ document.addEventListener('mousemove', (event) => {
   const y = event.clientY / window.innerHeight;
   
   // Adjust rotation based on mouse movement
-  rotateY = (x - 0.5) * 360; // Horizontal movement
+  rotateY = (x - 0.8) * 360; // Horizontal movement
   rotateX = (y - 0.5) * 360; // Vertical movement
 
   // Apply rotation to the cube
