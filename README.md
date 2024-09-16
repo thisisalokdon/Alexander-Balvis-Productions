@@ -1,6 +1,9 @@
 # 🎬 Alexander Balvis Productions
 
-![Alexander Balvis Productions Logo](https://yourimagelink.com/logo.png)  
+<br>
+<img src="https://raw.githubusercontent.com/thisisalokdon/Alexander-Balvis-Productions/main/Images/Alexander%20Balvis%20Logo%20500x500.png" hight=150 width=150>
+<br>
+
 *Creative Storytelling | Acting Training | Personal Development*
 
 Welcome to the official GitHub page of **Alexander Balvis Productions**! Since 2017, we have been empowering aspiring actors, storytellers, and individuals through world-class **acting courses**, **health seminars**, and **wealth management workshops**. We are committed to pushing the boundaries of creativity, personal growth, and excellence in everything we do.
